@@ -1,4 +1,4 @@
 # artifact-exporter
 Artifact Export Extension for Chrome Browser
 
-Extension
+Extension 0.1
